@@ -1,0 +1,37 @@
+// due to much diffrences in city names in page addresses and that downloaded from 
+// current weather site (not only letter case, '-', polish letters, but there are differences like
+// ["Gorzów" => "gorzow-wielkopolski"]) it's impractical to trying to autmate maping this names
+// so that in this file these names are mapped by hand
+
+// IMPORTANT: order in this file must match order in cityNameLink table in database
+
+Warszawa
+Kraków
+Łódź
+Wrocław
+Poznań
+Gdańsk
+Szczecin
+Lublin
+Białystok
+Katowice
+Częstochowa
+Toruń
+Rzeszów
+Kielce
+Olsztyn
+"Bielsko Biała"
+"Zielona Góra"
+Opole
+Gorzów
+Płock
+Elbląg
+Tarnów
+Koszalin
+Kalisz
+Legnica
+"Nowy Sącz"
+"Jelenia Góra"
+Siedlce
+Piła
+Przemyśl

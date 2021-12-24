@@ -1,3 +1,6 @@
 archived/
-pickles/
-logFile.txt
+data/
+__pycache__/
+logGather.ipynb
+pom.ipynb
+weather.db
